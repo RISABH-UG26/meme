@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+body{
+    color: antiquewhite;
+}
+h1{
+    text-transform: uppercase;
+    font-family: Libre Baskerville,serif;
+}
+p{
+    text-transform: capitalize;
+}
+
+#first{
+border: 10px solid white;
+height: 380px;
+width: 700px;
+margin: 50%;
+text-align: center;
+}
